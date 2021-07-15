@@ -1,2 +1,2 @@
-server:
-  port: 7001
+config-prod:
+  version: 1
